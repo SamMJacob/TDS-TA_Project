@@ -32,7 +32,6 @@ with open(METADATA_PATH, "r", encoding="utf-8") as f:
 EMBEDDING_URL = "https://aipipe.org/openai/v1/embeddings"
 COMPLETION_URL = "https://aipipe.org/openrouter/v1/chat/completions"
 AIPIPE_TOKEN = "eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjMwMDI1MjVAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.WYVf2JnaQ4W9bGrILpHSHuYsXgWqjl92tDTjBpSoUok"  # set this in env vars
-
 def get_embedding(text):
     headers = {
         "Content-Type": "application/json",
