@@ -1,0 +1,244 @@
+hello sir this is Harish. i completed and saved the week 2 and week 4 assignment. (didn’t do week 3) but the graded assignment shows it is incomplete and the score is 0 for both the weeks . i am attaching the iages. kindly check and reply soon sir.
+
+
+image
+1035×466 71 KB
+
+
+image
+1035×453 27.2 KB
+
+
+this is for week 4
+
+
+image
+1678×847 141 KB
+
+
+image
+1035×481 38.9 KB
+
+
+image
+463×457 26.9 KB
+
+
+kindly check on this sir.
+
+---
+
+Could you send me your email id. thanks.
+
+---
+
+Hi, the same issue persists for me for GA 2 and 4. I also did not attemp GA 3. Please look into this. My email id: 24ds3000061@ds.study.iitm.ac.in
+
+---
+
+My Graded assignment results are also not appearing in the dashboard. My email id is 22f2001532@ds.study.iitm.ac.in
+
+---
+
+@24ds3000061
+ 
+@22f2001532
+
+
+Can you check the dashboard now, I’ve been informed by operations that the scores have been pushed.
+
+
+GA 4 scores will be a little late to be pushed because there are some manual (i.e. automated using a custom written script) corrections that have to be made to Q4 for students who got Nur-Sultan as their city.
+
+
+Kind regards
+
+---
+
+Thanks Carlton. Now the results are visible in the dashboard.
+
+
+Thanks
+
+REVI
+
+---
+
+@carlton
+ Sir in my case, in week 2 it is showing “Absent” but I have attempted and saved the answers
+
+
+Screenshot 2025-02-12 151022
+427×596 28.1 KB
+
+
+Screenshot 2025-02-12 151101
+1035×434 21 KB
+
+
+My email ID is 22f2000559@ds.study.iitm.ac.in.
+
+Thank you.
+
+---
+
+Hi 
+@22f2000559
+
+
+I can confirm that our server did record your marks as 7, we will make a correction in the dashboard. Thanks for letting us know. My sincere apologies for the error.
+
+
+If the marks on the dashboard are not changed within the next 7 days, please let us know. I will follow it up on my end and try to get the correction pushed as soon as possible.
+
+
+Kind regards
+
+---
+
+Thank you so much Sir.
+
+---
+
+Screenshot 2025-02-13 105611
+251×317 14.2 KB
+
+another embedding
+
+---
+
+@carlton
+
+
+Screenshot 2025-02-13 105835
+1140×737 28.5 KB
+
+
+Sir, In my dashboard i am getting Absent for GA3
+
+my email id : 23f3001731@ds.study.iitm.ac.in
+
+i am not able to submit embeddings more than 1 so i am submitting it in another reply
+
+---
+
+Sir, I have attempted the graded assignment 2 and also saved it but my score is showing as absent. Please look into the issue sir.
+
+My email id is 23f1002071@ds.study.iitm.ac.in
+
+
+graded assignment page
+1886×776 45.5 KB
+
+
+course dashboard (1)
+1919×828 156 KB
+
+
+@carlton
+ 
+@Jivraj
+
+---
+
+Same issue I’m facing in my dashboard for 
+week - 3
+ it shows I’m 
+absent
+ although on portal it is showing my marks.
+
+
+Please update my dashboard.
+
+E-mail: 22f2000905@ds.study.iitm.ac.in
+
+
+TDS 2025 Jan GA3
+
+
+TDS-W3-Results
+2472×1636 313 KB
+
+---
+
+TDS 2025 Jan GA3-Dashboard
+2750×1328 290 KB
+
+---
+
+Dear Students,
+
+
+On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject 
+[TDS Jan 2025] Grade Corrections
+. Please refer to that email.
+
+
+Kind regards
+
+---
+
+Hello Sir/Mam,
+
+I had created this thread to inform that my marks for week -2 and week-4 graded assignment have not yet been updated and showing in the dashboard. But I have attended it, Please resolve the issue and do the needful actions.
+
+
+Regards,
+
+Sengathirsoorian E T
+
+(22f3000370@ds.study.iitm.ac.in)
+
+
+Week -4
+
+
+Screenshot_20250215-095816
+1080×1852 263 KB
+
+
+I can’t be able to enclose another screenshot of week-2 ( marks-5) as I was a new user.
+
+---
+
+On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email.
+
+
+Kind regards
+
+---
+
+Screenshot (674)
+1920×1080 273 KB
+
+
+@Carlton
+ D’Silva sir can u please see this why it’s given zero, it should be 8 right n in my dashboard it’s showing absent so what i should do ?
+
+---
+
+Please refer to this post
+
+
+
+
+
+
+
+
+
+
+GRADED ASSIGNMENT RESULT NOT SHOWING , kindly check on this
+ 
+Tools in Data Science
+
+
+
+
+
+    On the 13th of Feb (3 day ago at the time of this reply) an email was sent to all students with the subject [TDS Jan 2025] Grade Corrections. Please refer to that email. 
+Kind regards
+
+---
+
+Okk sir , n sir can u please tell me in which live session u have discussed regarding project becoz till week 3 i have see only n i having confusion in project so i want to see the session of project

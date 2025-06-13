@@ -1,0 +1,13 @@
+my score from week 2 to week 5 are still showing not submitted.
+
+
+Screenshot 2025-02-22 181257
+1144×704 30.8 KB
+
+---
+
+@23f1000879
+ This is not the screen where you see your scores for Tools in Data Science. Its only shown on dashboard. Can you send a screenshot of your dashboard. Thanks
+
+
+Kind regards

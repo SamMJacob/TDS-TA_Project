@@ -1,0 +1,216 @@
+Please post any questions related to 
+Graded Assignment 1 - Development Tools
+.
+
+
+
+
+Important Instruction
+
+
+Please use markdown code formatting (fenced code blocks) when sharing code in Discourse posts. This makes the code much easier to read and differentiate from non-code text. It also makes it easier for people to copy code snippets and run it themselves. Visit this link for more details: 
+Extended Syntax | Markdown Guide
+.
+
+
+A friendly suggestion: kindly go through 
+Discourse Docs
+! 
+
+
+
+
+Deadline: 26 Jan 2025, midnight IST
+
+
+@carlton
+ 
+@Jivraj
+ Please keep an eye on this thread for support.
+
+---
+
+
+
+---
+
+image
+1296×158 7.29 KB
+
+For question 16 of GA1, It says "Rename all files replacing each digit with the next "
+
+Accepted answer is working only if file names are renamed as
+
+2h3q9x.txt → 3h4q0x.txt
+
+eb209nmlca.txt → eb310nmlca.txt
+
+That means if digit is 9 then next digit should be 0. 
+@carlton
+ 
+@Jivraj
+ let me know if this is what is expected. since 9->10 or 209 → 210 is not working
+
+---
+
+Hi anant,
+
+
+Question mentions every digit should be replaced by next one.
+
+
+In that case 209 would get replaced by 310
+
+---
+
+Hello Sir, When I am following that logic to rename files, assessment check is giving error “Incorrect. Try again.”
+
+---
+
+@21f2000370
+ Since you have managed to get all the answers correct, I presume there are no further issues w/ Q16.
+
+---
+
+Hi, I am unable to access Graded Assignment 1. Every time I click on the given link, all I can see is this page. Please advise.
+
+
+tdsga1
+1902×919 31.1 KB
+
+---
+
+Possible reasons for this issue.
+
+
+
+
+Disable/remove Ad blocker
+
+
+Disable/remove Tracking blocker (Allow third party cookies)
+
+
+Use Chrome browser
+
+
+Disable Browser extensions
+
+---
+
+As I highlighted earlier, Its not accepting the answer  if I follow correct logic for renaming for example 209->210, but it is accepting if rename as 209->310
+
+---
+
+Hi Anant,
+
+
+
+
+
+
+
+
+ 21f2000370:
+
+
+
+
+image
+1296×158 7.29 KB
+
+
+
+
+
+
+Here in question, it’s mentioned to replace every digit with next digit, that’s why 209 would be 310.
+
+---
+
+In attempting the third question, I’m unable to download the npm package as it requires docker. When trying to install docker from the installer, it freezes in the verifying package stage. Can somebody please help solve my problem?
+
+
+@carlton
+ 
+@Jivraj
+
+---
+
+image
+1627×202 12.6 KB
+
+Which HTML content we want to take?
+
+---
+
+Hi Suhani,
+
+
+npm does not require docker.
+
+
+Kind regards
+
+---
+
+Hi Hisham,
+
+
+Its described in the question. There is a hidden element hiding somewhere after that question. You would have to inspect the DOM to find it.
+
+---
+
+Screenshot 2025-01-11 at 10.29.41 PM
+1440×900 160 KB
+
+
+@s.anand
+  please guide me through this question, my answer is showing incorrect
+
+---
+
+Hello Sir. I am unable to install uv in my windows system. Whenever I run the code provided at the reference link in Powershell, my anti-virus system sends a message that it was blocked. Even after blocking Real-time security, uv does not display. What am I doing wrong?
+
+---
+
+Hi, I’m unable to view assignments. below is the screenshot for your reference.
+
+
+Screenshot 2025-01-12 150511
+963×632 14.5 KB
+
+
+Please suggest me a way to view it. I have allowed third-party cookies as well.
+
+
+Thanks
+
+---
+
+Hi manmeet,
+
+
+I don’t know about solution to this.
+
+Some network setting might be causing problem.
+
+
+Alternatively you can make use of GitHub codespaces which provides 120 hours of free run time in a month. With GitHub codespaces you can use Ubuntu os, and visually it gives you feel of vs code. You can also active your GitHub student developer pack and get 180 hours of GitHub codespaces and some more benefits such as cloud resources and domains.
+
+
+I have done all questions of week1 and week2 on codespaces only, codespaces works very well if you have good internet connection.
+
+---
+
+Hi samra,
+
+
+Try installing some other browser see if that works.
+
+---
+
+Hi mishkat,
+
+
+Without sharing code, can you pls share your approach how you are trying to solve this question.

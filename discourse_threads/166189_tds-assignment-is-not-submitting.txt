@@ -1,0 +1,199 @@
+@carlton
+ 
+@s.anand
+
+dear sir
+
+i have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment had not been submitted. pls do something please do it fast.
+
+---
+
+GA2 - Deployment Tools - Discussion Thread [TDS Jan 2025]
+ 
+Tools in Data Science
+
+
+
+
+
+    We have removed that button, cause it was causing confusion among the students. 
+If you have saved your answers on the TDS portal then you need not worry, you will be marked. The button was just there to ensure you saw the assignment on the TDS portal. 
+Regards, 
+TDS TA
+  
+
+
+
+
+Read this
+
+---
+
+I saved that too but right now scores of GA2 isn’t visible for me. And in score section it’s showing assignment not submitted. 
+@Saransh_Saini
+
+---
+
+Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time.
+
+
+Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.
+
+
+The scores will only be visible in the dashboard.
+ Just ignore anything inside seek portal. The dashboard is where all your subject score cards exists.
+
+
+As stated in multiple places on discourse as well as in live sessions, The final score is always your last submission. If your dashboard score does not match your final submission score on the assignment page, only then contact us regarding your marks.
+
+
+Kind regards
+
+---
+
+@Jivraj
+ 
+@iamprasna
+  i have taken tds in this term. after the first assignment there was no checkbox provided to any graded assignment .for this reason i just saved the assignment at the portal link .and now after the deadline its showing my assignment  had not been submitted. pls do something please do it fast.
+
+---
+
+@23f3002530
+
+Topic moved to the appropriate category in order to get faster responses.
+
+
+Please make it easier for others to help you, by ensuring that topics are created in the correct categories.
+
+---
+
+@23f3002530
+
+
+Please refer to this post.
+
+
+
+
+
+
+
+
+
+
+Tds: assignment is not submitting
+ 
+Tools in Data Science
+
+
+
+
+
+    Your scores are evaluated on a site that is external to the seek portal and is not integrated with the seek portal. Therefore seek does not know if you have submitted or not and by default says that it has not been submitted because it cannot see your external evaluation. There will not be a fix for this for some time. 
+Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. 
+The scores will only be visible in the dashboard. Just ignore anything inside se…
+  
+
+
+
+
+Kind regards
+
+---
+
+Screenshot (313)
+1920×1080 243 KB
+
+---
+
+Dear Bhavanagv,
+
+
+The scores have not been pushed to the dashboard yet. Ignore seek portal. Seek portal will not have your submission or your scores because it is evaluated externally from the seek portal.
+
+
+Kind regards
+
+---
+
+I had submitted the assignment still it’s shwoing that my score is 0 and that i have not submitted the assignment.
+
+
+Can you please look into it as i had saved my answers as well timely.
+
+
+image
+547×258 12.3 KB
+
+---
+
+same thing with my assignment even though i submitted it
+
+---
+
+Scores will soon be pushed to seek portal, till then it will show 0.
+
+---
+
+Same for me…deadline is over and assignment not submitted…
+
+---
+
+same issue here as well
+
+---
+
+Yes, same observation for my assignment as well.
+
+---
+
+Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal.
+
+
+The scores will only be visible in the dashboard. Just ignore anything inside the seek portal.
+
+
+As stated in multiple places in discourse as well as in live sessions, The final score is always your last submission.
+
+
+Kind regards
+
+---
+
+There are some errors in grading for GA2 and  GA3 for TDS, even after submitting the assignments score 0 was given and the seek portal displayed assignment was not submitted given that the login was from my own account and was submitted before the time and still got a score of 0.
+
+
+Screenshot 2025-02-07 201316
+1859×960 88.4 KB
+
+and the same happened for the 3rd assignment
+
+---
+
+Please refer to this post.
+
+
+
+
+
+
+
+
+
+
+Tds: assignment is not submitting
+ 
+Tools in Data Science
+
+
+
+
+
+    Scores for GA1, GA2, GA3, GA4, GA5, Project1, Project2, ROE will NOT be inside your seek portal. 
+The scores will only be visible in the dashboard. Just ignore anything inside the seek portal. 
+As stated in multiple places in discourse as well as in live sessions, The final score is always your last submission. 
+Kind regards
+
+---
+
+Only 1st Graded assignment scores are visible on dashboard.  I have submitted 2nd and 3rd GA before the deadline but still it showing “not submitted” on the seek portal…
