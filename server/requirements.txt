@@ -28,9 +28,6 @@ itsdangerous==2.2.0
 Jinja2==3.1.6
 joblib==1.5.1
 MarkupSafe==3.0.2
-mkl-service==2.4.0
-mkl_fft 
-mkl_random 
 multidict==6.4.4
 nltk==3.9.1
 numpy==1.26.4
