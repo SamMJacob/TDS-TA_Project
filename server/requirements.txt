@@ -35,7 +35,7 @@ mkl_fft
 mkl_random 
 multidict==6.4.4
 nltk==3.9.1
-numpy==numpy==1.26.4
+numpy==1.26.4
 packaging 
 pillow==11.2.1
 playwright==1.52.0
