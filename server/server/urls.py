@@ -22,7 +22,7 @@ from django.views.decorators.csrf import csrf_exempt
 
 @csrf_exempt
 def root_handler(request):
-    return JsonResponse({"status": "ok"})
+    return JsonResponse({"answer": "status_ok"})
 
 urlpatterns = [
     path('', root_handler),
