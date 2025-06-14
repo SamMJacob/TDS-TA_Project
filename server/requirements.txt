@@ -15,6 +15,7 @@ click==8.2.1
 colorama==0.4.6
 Django==5.2.3
 djangorestframework==3.16.0
+django-cors-headers
 exceptiongroup==1.3.0
 faiss-cpu
 frozenlist==1.6.0
