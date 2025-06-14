@@ -18,9 +18,14 @@ from django.contrib import admin
 from django.urls import path, include
 from django.http import JsonResponse
 from django.urls import path
+from django.views.decorators.csrf import csrf_exempt
+
+@csrf_exempt
+def root_handler(request):
+    return JsonResponse({"status": "ok"})
 
 urlpatterns = [
-    path('', lambda request: JsonResponse({"status": "ok"})),
+    path('', root_handler),
     path('admin/', admin.site.urls),
     path('api/', include('virtual_ta.urls')),
 ]
